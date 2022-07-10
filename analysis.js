@@ -73,7 +73,6 @@ $jscomp.makeIterator = function(a) {
         h = 1,
         l = null,
         k = null;
-    console.info("Chia s\u1ebb b\u1edfi M\u1ea1nh Tu\u1ea5n t\u1eeb nh\u00f3m J2TEAM Community - https://www.facebook.com/groups/j2team.community");
     (function() {
         var b = new URL(window.top.location.href);
         if (!b.hostname.includes("shopee.vn")) throw Error("\u0110o\u1ea1n m\u00e3 n\u00e0y ch\u1ec9 c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng tr\u00ean web Shopee.vn");
