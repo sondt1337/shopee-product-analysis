@@ -1,14 +1,16 @@
 ## Cách dùng: 
 ### Chọn 1 sản phẩm bất kì trong shopee
 
-![image](https://user-images.githubusercontent.com/87920408/178153098-ec69c79e-95d9-4bd0-996c-4d61b53e6d7f.png)
+![image](https://user-images.githubusercontent.com/87920408/178153252-e19d55a3-88be-4173-a1ec-24b4359ac026.png)
 
 ### Sau đó dán code vào Console để phân tích
 
-![image](https://user-images.githubusercontent.com/87920408/178153130-bd5ee0b0-b6bb-4ca9-a09a-a1faa108e14f.png)
+![image](https://user-images.githubusercontent.com/87920408/178153274-1fdeaede-7998-4c0e-a70d-024e33ad9157.png)
 
-![image](https://user-images.githubusercontent.com/87920408/178153139-f7b8dd42-1a17-4caa-b5e5-63231f2e7657.png)
+### Kết quả
 
-### Kết quả:
+![image](https://user-images.githubusercontent.com/87920408/178153303-68656bd2-d396-4f59-b1de-ede27351401c.png)
 
-![image](https://user-images.githubusercontent.com/87920408/178153145-99ec2539-1cb2-467b-9094-801c1a94e971.png)
+![image](https://user-images.githubusercontent.com/87920408/178153311-78c8831b-040b-4169-b1c9-4d4a01fe23bc.png)
+
+Sau đó tự xem để chọn sản phẩm phù hợp nhất với mình (cũng như là được lựa chọn nhiều nhất)
